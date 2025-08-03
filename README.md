@@ -1,6 +1,6 @@
 # 📈 Tech Challenge FIAP – Previsão de Tendência do IBOVESPA
 
-Este repositório apresenta o projeto desenvolvido por **Gabriela Rodrigues** como parte do Tech Challenge da Pós-Tech FIAP, com foco em **Machine Learning aplicado ao mercado financeiro**. O objetivo principal é prever a tendência de fechamento do índice IBOVESPA no próximo pregão — se será de **alta ou baixa** — com **alta acurácia e confiabilidade**.
+Este repositório apresenta o projeto desenvolvido por **Gabriela Rodrigues** como parte do Tech Challenge da Pós-Tech FIAP, com foco em **Machine Learning aplicado ao mercado financeiro**. O objetivo principal é prever a tendência de fechamento do índice IBOVESPA no próximo pregão se será de **alta ou baixa** com **alta acurácia e confiabilidade**.
 
 ---
 
